@@ -1,1 +1,1 @@
-https://github.com/obihoduser-cmd/posmotri-v-okno-ad
+https://github.com/obihoduser-cmd/posmotri-v-okno-ad/blob/main/README.md
